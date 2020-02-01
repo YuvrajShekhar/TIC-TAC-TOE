@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580580506 source:/home/yuvraj/Documents/C PROJECT 2 - TIC TAC TOE/Tic Tac Toe /main.c
+	<stdio.h>
+	<stdlib.h>
+
